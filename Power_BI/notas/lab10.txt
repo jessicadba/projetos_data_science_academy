@@ -1,0 +1,7 @@
+Neste Lab o objetivo é mostrar como usar o Power BI como ferramenta para limpeza e manipulação de dados. Serão 3 atividades realizadas durante o Lab:
+
+- Identificação e tratamento de registros duplicados.
+
+- Identificação e tratamento de valores ausentes.
+
+- Identificação e tratamento de valores outliers.
